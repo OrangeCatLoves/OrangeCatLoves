@@ -7,4 +7,4 @@
 🚀 **About Me**  
 - 🎓 Y2 Computer Science Undergraduate  
 - 🏗️ Specializing in **Software Engineering** & **Databases**  
-- 🤔 I enjoy **problem-solving** and making things work!  
+- 🤔 I enjoy **problem-solving** and (hopefully) making things work!  
