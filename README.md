@@ -5,6 +5,6 @@
 </p>
 
 🚀 **About Me**  
-- 🎓 Y2 Computer Science Undergraduate  
+- 🎓 Y3 Computer Science Undergraduate  
 - 🏗️ Specializing in **Software Engineering** & **Databases**  
 - 🤔 I enjoy **problem-solving** and (hopefully) making things work!  
